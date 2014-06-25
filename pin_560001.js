@@ -1,4 +1,4 @@
-{
+postboxes= {
     "features": [
         {
             "geometry": {
@@ -310,4 +310,4 @@
         }
     ], 
     "type": "FeatureCollection"
-}
+};
