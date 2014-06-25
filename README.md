@@ -1,6 +1,7 @@
-====== Map Class ======
+Map Class
+=========
 
 I wrote this for my map class at NID, Bangalore. 
 
-[[thejeshgn.com/presentations/map-class|Live notes page lives on the web here.]]
+[Live notes page lives on the web here.](http://thejeshgn.com/presentations/map-class)
 
